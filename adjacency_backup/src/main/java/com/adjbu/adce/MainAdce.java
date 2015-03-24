@@ -71,7 +71,7 @@ public class MainAdce {
         	  adce_bean.setServing_cell_ID(source_bts.getServing_cell_ID());
         	  
         	  adce_out_beans.add(adce_bean);//Dodati svi outgoing susedi
-        	  
+        	  ///Komentar
   	    	  
   	       }
           sm.close();
