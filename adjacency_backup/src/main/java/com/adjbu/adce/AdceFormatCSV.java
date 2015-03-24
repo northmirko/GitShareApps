@@ -30,7 +30,7 @@ private  CellProcessor[] getProcessors() {
         //StrRegEx.registerMessage(emailRegex, "must be a valid email address");
         
         final CellProcessor[] processors = new CellProcessor[] { 
-        		new NotNull(), 
+        		new NotNull(), //test comment
                 new NotNull(), 
                 new NotNull(), 
                 new NotNull(), 
